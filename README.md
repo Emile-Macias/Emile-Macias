@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Emile Macias 
+## Aspiring Entrepeneur | Business Managment Student
 
-<!--
-**Emile-Macias/Emile-Macias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a first year Business Managment student at San Jose City College.
+I am passionate about ongoing learning, business operations, leadership, and finance.
 
-Here are some ideas to get you started:
+### I'm currently learning
+- Software for analysis and reporting
+- Fundamentals of product creation and user experience via data sourcing
+- Programming fundamentals through interactive problem solving and small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+- LinkedIn: www.linkedin.com/in/emile-macias-241644410
+- Email: cis041.1161885@gmail.com
